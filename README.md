@@ -9,6 +9,9 @@ This web service allows you to view and interact with a phonebook directory.
 How To Use
 ----------
 
+To run the application, from command line move to the app folder and excecute:
+python app.py
+
 There are five ways to interact with the service:
 
 1. Viewing the conents of the phonebook: 

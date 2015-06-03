@@ -9,8 +9,7 @@ This web service allows you to view and interact with a phonebook directory.
 How To Use
 ----------
 
-To run the application, from command line move to the app folder and excecute:
-python app.py
+To run the application, from command line move to the app folder and excecute:  ./app.py
 
 There are five ways to interact with the service:
 
@@ -50,6 +49,7 @@ How To Install
 
 Create a new directory on your machine and copy all files from the github project
 into it (file list below)
+
 
 
 Flie List
